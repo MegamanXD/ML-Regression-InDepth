@@ -1,1 +1,1 @@
-ML Regression InDepth
+ML Regression basics
